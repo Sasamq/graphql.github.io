@@ -1,9 +1,11 @@
-*.swp
-*~
-.DS_Store
-.nvmrc
-node_modules
-npm-debug.log
+# Xojo (formerly REALbasic and Real Studio)
 
-/build/
-.tmp.*
+Builds*
+*.debug
+*.debug.app
+Debug*.exe
+Debug*/Debug*.exe
+Debug*/Debug*\ Libs
+*.rbuistate
+*.xojo_uistate
+*.obsolete
